@@ -1,4 +1,4 @@
-# byAditi
+# SnipCraft
 Config files for my GitHub profile.
 
 # 👋 Hello, I'm Aditi
