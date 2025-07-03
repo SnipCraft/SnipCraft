@@ -8,7 +8,8 @@ Config files for my GitHub profile.
 🌱 Currently learning:  
 &nbsp;&nbsp;&nbsp;&nbsp;• HTML, CSS
 &nbsp;&nbsp;&nbsp;&nbsp;• C, C++  
-&nbsp;&nbsp;&nbsp;&nbsp;• Python  
+&nbsp;&nbsp;&nbsp;&nbsp;• Python 
+&nbsp;&nbsp;&nbsp;&nbsp;• Java
 &nbsp;&nbsp;&nbsp;&nbsp;• Data Structures & Algorithms (DSA)
 
 🚀 I enjoy building simple, clean web projects  
