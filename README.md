@@ -20,7 +20,7 @@ Config files for my GitHub profile.
 
 ### 🔧 Tools & Technologies
 - HTML, CSS, JavaScript (Basics)
-- C, C++, Python
+- C, C++, Python, Java
 - Git & GitHub
 - VS Code
 
