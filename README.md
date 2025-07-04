@@ -28,7 +28,7 @@ Config files for my GitHub profile.
 
 ### 📝 About this GitHub
 This space is a small reflection of my learning journey — quietly built, one commit at a time.  
-Welcome to my world of code — **byaditi** 🌿
+Welcome to my world of code — **SnipCraft** 🌿
 
 ---
 
